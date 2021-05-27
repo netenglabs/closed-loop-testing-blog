@@ -1,0 +1,12 @@
+data-directory:  ./parquet-pre-deploy
+temp-directory: /tmp/
+# kafka-servers: localhost:9093
+logging-level: WARNING
+period: 15
+API_KEY: 496157e6e869ef7f3d6ecb24a6f6d847b224ee4f
+rest_certfile: /home/ddutt/.suzieq/cert.pem
+rest_keyfile: /home/ddutt/.suzieq/key.pem
+coalescer:
+   period: 1h
+   archive-directory: 
+   logging-level: DEBUG
