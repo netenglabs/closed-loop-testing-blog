@@ -1,6 +1,6 @@
 # closed-loop-testing-blog
 
-This is the Repo for the closed loop network change testing blog post available [here]() and on [Medium](). 
+This is the Repo for the closed loop network change testing blog post available [here](https://elegantnetwork.github.io/posts/closing-the-loop-testing/) and on [Medium](https://medium.com/the-elegant-network/closing-the-loop-on-testing-network-changes-44c356c1ca43). 
 
 To use the code and repo in this repository, you must follow the instructions in the post, as well as install pytest to run the test files.
 
